@@ -41,7 +41,8 @@ a{
 /* section 1 */
 .section-1{
     padding-top: 15vh;
-    padding-left: 15vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
     text-align: center;
 }
 
