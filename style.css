@@ -6,13 +6,16 @@
     grid-template-columns: repeat(2,1fr);
 }
 
+
 .image-cropper {
     width: 500px;
     height: 500px;
     position: relative;
     overflow: hidden;
+    /*border:3px solid #4d4dff;*/
     border-radius: 45%;
 }
+
 .profile-pic {
   display: inline;
   margin: 0 auto;
