@@ -57,4 +57,4 @@ _you_ know how your code works, but that doesn't mean that other people will too
 It's important to document your code thoroughly by writing appropriate comments and making your code readable, but you can _never_ get a first impression back.
 The README is the face of your github repository, and by making it detailed, you're much more likely to get positive feedback.
 
-## [Back to Home](https://daviskeene.com/blog/)
+### [Back to Home](https://daviskeene.com/blog/)

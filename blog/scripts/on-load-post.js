@@ -28,12 +28,10 @@ function readMDFile(file)
 }
 
 let post_name = getUrlVars()['post'];
-console.log(post_name);
 
 let converter = new showdown.Converter();
 let post_text = readMDFile("../files/"+post_name+".markdown");
 let headers = post_text[0].split("\n").map(x => x.split(": ")[1]);
-console.log(headers);
 
 let [title, author, description, path, date, categories] = headers;
 
