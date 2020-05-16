@@ -565,7 +565,7 @@ a {
   color: #000;
   transition: color 0.3s; }
   a:hover {
-    color: #0a59b0; }
+    color: #ff91af; }
 
 h2 {
   margin: 0.7em 0; }
@@ -725,11 +725,11 @@ main {
   color: #222;
   line-height: 1.9em; }
   .post a {
-    color: #0a59b0;
+    color: #ff91af;
     text-decoration: none;
     transition: border-bottom 0.4s; }
     .post a:hover {
-      border-bottom: 0.5px solid #0a59b0; }
+      border-bottom: 0.5px solid #ff91af; }
   .post h1,
   .post h2,
   .post h3,
