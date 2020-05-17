@@ -5,12 +5,12 @@ path: laymans-contact-tracing
 date: May 17th, 2020
 categories: security coronavirus cryptography
 ---
-## _"People fear what they don't understand and hate what they can't conquer"_- Andrew Smith
+## _"People fear what they don't understand and hate what they can't conquer."_- Andrew Smith
 
 When the coronavirus pandemic hit America in early 2020, privacy was one of the least important things to American citizens at the time.
 Staying inside, buying enough toilet paper and washing your hands were the biggest concerns for people who hadn't yet contracted the virus.
 
-And yet, as we begin to turn the seasonal corner from spring to summer, the one question on everyone's minds remains static: When, and how, are
+And yet, as we begin to turn the seasonal corner from spring to summer, the one question on everyone's minds remains the same: When, and how, are
 we going to re-open the economy safely and swiftly? I think that privacy first solutions, namely anonymous contact tracing applications, are the obvious solution.
 
 ## What is Contact Tracing?
@@ -39,7 +39,7 @@ keep a record of where you've been and when, and then if a person tests positive
 
 <b>This is not how contact tracing apps work!</b> If it were, it would be a serious invasion of privacy. Not to say that companies
  like Google or TikTok aren't already [using your location data](https://www.cnet.com/news/tiktok-accused-of-secretly-gathering-user-data-and-sending-it-to-china/), but
- we shouldn't have to give up our privacy or face viral doom. The good news it, <b>we don't need to choose!</b>
+ we shouldn't have to give up our privacy or face viral doom. The good news is, <b>we don't need to choose!</b>
  
 ## Privacy First Contact Tracing, in Layman's Terms
 Rather than know where you've been, all your phone needs to know is <i>who you've been around</i>.
