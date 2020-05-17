@@ -25,7 +25,7 @@ for states to ease restrictions while hospitals can operate at below-full capaci
 The coronavirus, from what we know, is unique in that is has an [extremely long incubation period](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html).
 This means that people who have been infected with the virus may not show symptoms for 14 days, by which point they've been infecting other people without even knowing it. To the virus, there
 are 4 kinds of people: those who haven't been infected, those who have been infected and are infecting others, those who have been infected and are in quarantine, and those who have had the coronavirus
-and cannot recieve it / transmit it anymore (either because they have recovered or died).
+and cannot receive it / transmit it anymore (either because they have recovered or died).
 
 One of the biggest challenges is knowing when a person should begin to self-quarantine to prevent the spread of the virus. And the most effective method is by telling people when they have been exposed to a COVID-19
 positive person. As of right now, it's advised by the CDC to contact people that you've been in proximity with should you receive a positive diagnosis, but that means that you're only notifying people you personally know. What about
@@ -37,14 +37,14 @@ By having contact tracing applications in people's phones, we can safely and eff
 It's easy to think that a contact tracing app consists of knowing your location and knowing the location of everyone around you. In this model, your phone would
 keep a record of where you've been and when, and then if a person tests positive for COVID-19 their location data is uploaded to a server.
 
-<b>This is not how contact tracing apps work!</b>If it were, it would be a serious invasion of privacy. Not to say that companies
+<b>This is not how contact tracing apps work!</b> If it were, it would be a serious invasion of privacy. Not to say that companies
  like Google or TikTok aren't already [using your location data](https://www.cnet.com/news/tiktok-accused-of-secretly-gathering-user-data-and-sending-it-to-china/), but
- we shouldn't have to give up our privacy or face viral doom. The good news it, <b>we don't need to!</b>
+ we shouldn't have to give up our privacy or face viral doom. The good news it, <b>we don't need to choose!</b>
  
 ## Privacy First Contact Tracing, in Layman's Terms
 Rather than know where you've been, all your phone needs to know is <i>who you've been around</i>.
 
-Privacy first contact tracing apps utilize this by doing two things: sending out random messages, and receiving random messages from other nearby phones.
+Privacy first contact tracing apps accomplish this by doing two things: sending out random messages, and receiving random messages from other nearby phones.
 By having my phone store the messages it sends out, and the messages it takes in from nearby people, I can have my app search nearby hospital databases containing 
 messages that were sent from <i>COVID-19 positive people</i>. If my list of received messages contains any of the messages in the database, it means I was recently in contact with someone 
 who tested for COVID-19, and I should self quarantine for 14 days.
