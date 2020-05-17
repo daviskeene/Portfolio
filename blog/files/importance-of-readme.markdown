@@ -1,9 +1,9 @@
 title: The Importance of a Good README
 author: Davis Keene
-description: How a well-written README can make your project more successful.
+description: How a well-written GitHub README can make your project more successful.
 path: importance-of-readme
 date: May 17th, 2020
-categories: git style
+categories: git productivity
 ---
 ## _Developers are very good at writing code, and very bad at reading it._ 
 In a developer's pursuit of success, they'll often cut corners, write non-idiomatic snippets of code only they can understand
