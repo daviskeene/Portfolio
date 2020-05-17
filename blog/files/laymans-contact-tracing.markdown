@@ -11,7 +11,7 @@ When the coronavirus pandemic hit America in early 2020, privacy was one of the 
 Staying inside, buying enough toilet paper and washing your hands were the biggest concerns for people who hadn't yet contracted the virus.
 
 And yet, as we begin to turn the seasonal corner from spring to summer, the one question on everyone's minds remains static: When, and how, are
-we going to re-open the economy safely and swiftly? And I think that privacy, namely anonymous contact tracing applications, are the obvious solution.
+we going to re-open the economy safely and swiftly? I think that privacy first solutions, namely anonymous contact tracing applications, are the obvious solution.
 
 ## What is Contact Tracing?
 I rather dislike the mainstream name for this technology being "contact tracing", because to trace something often implies that your locational data
