@@ -60,7 +60,7 @@
 /* '' */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
-  font-family: sans-serif;
+  font-family: Ubuntu, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
@@ -159,7 +159,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: Ubuntu, sans-serif;
   font-size: 1em; }
 
 button,
@@ -548,7 +548,7 @@ pre.highlight, code {
   box-sizing: border-box; }
 
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: Ubuntu, sans-serif;
   font-size: 16px;
   line-height: 1.2em;
   margin: 0;
@@ -648,7 +648,7 @@ main {
       border-bottom: 0; }
     .navigation ul a {
       display: block;
-      font-family: 'Merriweather';
+      font-family: Ubuntu, sans-serif;
       text-align: center;
       padding: 1rem 0;
       text-decoration: none;
@@ -720,7 +720,7 @@ main {
   padding-left: 30px; }
 
 .post {
-  font-family: "Merriweather", sans-serif;
+  font-family: Ubuntu, sans-serif;
   font-weight: 300;
   color: #222;
   line-height: 1.9em; }
@@ -736,7 +736,7 @@ main {
   .post h4,
   .post h5,
   .post h6 {
-    font-family: Raleway, sans-serif; }
+    font-family: Ubuntu, sans-serif; }
 
 #posts-label {
   border-bottom: 1px solid #eee;
