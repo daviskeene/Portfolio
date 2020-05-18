@@ -7,7 +7,7 @@ categories: security coronavirus cryptography
 ---
 ## _"People fear what they don't understand and hate what they can't conquer."_- Andrew Smith
 
-When the coronavirus pandemic hit America in early 2020, privacy was one of the least important things to American citizens at the time.
+When the coronavirus pandemic hit America in early 2020, privacy was one of the last things on people's minds at the time.
 Staying inside, buying enough toilet paper and washing your hands were the biggest concerns for people who hadn't yet contracted the virus.
 
 And yet, as we begin to turn the seasonal corner from spring to summer, the one question on everyone's minds remains the same: When, and how, are
