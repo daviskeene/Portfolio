@@ -16,7 +16,7 @@
 .profile-pic {
   display: inline;
   margin: 0 auto;
-  margin-left: 25%; //centers the image
+  margin-left: 10%; //centers the image
   height: 100%;
   width: auto;
 }
@@ -27,11 +27,11 @@ body{
     font-family: Ubuntu, sans-serif;
     background-color: #FFFFFF;
     color: #7A7C80;
-
+    padding-bottom: 5%;
 }
 
 h2,.white{
-    color: #4d4dff;
+    color: black;
 }
 
 a{
