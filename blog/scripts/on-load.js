@@ -18,6 +18,7 @@ function readMDFile(file)
     // Break up text into descriptors and body
     return returnText.split("---");
 }
+
 // Loop through the post titles (need to have titles doc since I can't read file dirs).
 let posts = readMDFile("files/titles")[0];
 posts.split("\n").forEach(function(item, index) {

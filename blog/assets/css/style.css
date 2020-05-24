@@ -695,11 +695,14 @@ main {
         margin-bottom: 16px; } }
 
 .post-link {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #4d4dff
+}
 
 .post-title {
   line-height: 1.2em;
-  font-size: 28px; }
+  font-size: 28px;
+}
 
 .posts,
 .post-container {
@@ -746,3 +749,11 @@ main {
   letter-spacing: 0.5px;
   padding-bottom: 10px;
   font-weight: normal; }
+
+#editor {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
