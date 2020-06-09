@@ -63,4 +63,4 @@ In the past, interning for a startup meant working as an unpaid employee who wou
 If you're like me, being in the startup scene may convince you that starting your own business is the best way to make an immediate impact. I hope that no matter what you do, you'll consider giving startups a chance to 
 change your life and provide you with invaluable life skills that will be useful for the rest of your career.
 
-### [Back to Home](https://daviskeene.com/blog/)
+### [Back to Home](../)

@@ -65,4 +65,4 @@ are the same ones that have these massive privacy concerns.
  
 Hopefully, the use of contact tracing apps will be a huge driving force in the re-opening of the national economy, and allow us to return to a better, more active lifestyle sooner than we thought.
  
-### [Back to Home](https://daviskeene.com/blog/)
+### [Back to Home](../)
