@@ -1,6 +1,6 @@
 title: The HotPlot- A Fun Way to Prioritize Ideas
 author: Davis Keene
-description: Everyone wants a way to prioritize their ideas and side projects, but doing so often feels tedious and unhelpful. Introducing the HotPlot: a way to organize your thoughts that feels... productive.
+description: Everyone wants a way to prioritize their ideas and side projects, but doing so often feels tedious and unhelpful. Introducing the HotPlot, a way to organize your thoughts that feels right.
 path: hotplot-prioritize-thoughts
 date: July 8th, 2020
 categories: productivity
@@ -85,5 +85,8 @@ Since I've been making these plots so frequently, I actually published a site to
 I hope that this was a helpful guide for people (like me) who struggle to prioritize ideas. It's easy to lose motivation in the software industry, as there are always distractions
 that come up in life. The HotPlot has been a great tool for me to use to organize my thoughts, and make a list of things I should do *in order*, making it a lot
 easier to hold myself accountable for lost time.
+
+Even if the HotPlot isn't the right tool for you, I hope this encourages some internal dialogue as to what works best for YOU when organizing personal or work-related
+projects. Half of being an engineer is having the skill set to accomplish anything; the other half is working efficiently, effectively, and passionately.
 
 ###[Back To Home](../)
