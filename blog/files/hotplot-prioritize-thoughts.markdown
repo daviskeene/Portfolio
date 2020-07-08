@@ -24,6 +24,8 @@ Below is a picture of the HotPlot itself: it's a prioritization matrix with two 
 
 <center>
 <img src="../assets/images/hotplot/hotplot-ranking.png" width="450" height="400" />
+
+<i>Illustrated by Thomas Whitehead</i>
 </center>
 
 The process behind using a HotPlot to make informed decisions is straightforward:
@@ -36,6 +38,8 @@ The process behind using a HotPlot to make informed decisions is straightforward
 
 <center>
 <img src="../assets/images/hotplot/hotplot-scales.png" width="450" height="400" />
+
+<i>Illustrated by Thomas Whitehead</i>
 </center>
 
 ## An Example
