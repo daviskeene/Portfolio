@@ -23,13 +23,13 @@ to go over that exact example in class, which was a really great experience to h
 Unsurprisingly, however, this course was a secondary concern for many of the course developers, as they had the larger CS-125 (Intro to CS) class to worry about. When
 coronavirus made all classes remote, most of their collective effort was put into 125 instead of 199. What this ultimately meant was that we weren't to be given a homework
 assignment in Kotlin for the entirety of the semester. Our final project was to be the entirely of our grade, and even though the grading scale was Satisfactory / Unsatisfactory, it was still
-a little nerve wracking. I decided that for my project I would take the initiative to **create a site where the professor could upload Kotlin homework assignments, and where students could run and
+a little nerve-wracking. I decided that for my project I would take the initiative to **create a site where the professor could upload Kotlin homework assignments, and where students could run and
 test their solutions.**
 
 [KTeach](http://kteach.live) is still up and running (you can register [here](http://kteach.live/authentication.html?classroom=MBYGJF)), and working on KTeach allowed me to learn so much more
-about Kotlin through experience, rather than just doing homeworks each day. Not to say that I think daily homeworks aren't important: if I thought that, then I wouldn't have made KTeach. But
+about Kotlin through experience, rather than just doing homeworks each day. Not to say that I think daily homework isn't important: if I thought that, then I wouldn't have made KTeach. But
 in smaller, more experiential classes such as Joyful Kotlin, it's a pleasant surprise to work with the course resources to build something that you're passionate about
-rather than *just* doing the daily homeworks to retain Kotlin syntax.
+rather than *just* doing the daily homework to retain Kotlin syntax.
 
 ## Why Joyful Kotlin is the Logical Next Step for CS Majors
 Something that I've learned throughout the years is that knowledge is not transferred, it is **constructed**. Knowledge is not just the passing of an oral tradition from one
@@ -57,7 +57,7 @@ getting you to see the *joy* of Kotlin, rather than just the semantics. Instead 
 *else* can we do with Kotlin?"
 
 ## Closing Remarks
-Joyful Kotlin is a class that I only have good things to say about. The professor was amazing and knowledgeable beyond the scope of the class, the learning envionment was positive both in person and online, and
+Joyful Kotlin is a class that I only have good things to say about. The professor was amazing and knowledgeable beyond the scope of the class, the learning environment was positive both in-person and online, and
 I learned a lot about Kotlin, Dockerizing API's and concurrency in programming. If I could go back in time to my January self, I would have let him know that he made the right choice in choosing this class over Linear Algebra.
 
 Although Joyful Kotlin was 1 credit hour, met twice a week, and was put on the backburner by the course staff when classes all went remote, I enjoyed coming to class each day and using the course resources to make software
