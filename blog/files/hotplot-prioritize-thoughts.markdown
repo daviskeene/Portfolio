@@ -5,7 +5,7 @@ path: hotplot-prioritize-thoughts
 date: July 8th, 2020
 categories: productivity
 ---
-## "Time isn't the main thing. It's the only thing. - Miles Davis"
+## "Time isn't the main thing. It's the only thing." - Miles Davis
 If you're a developer, then I'm sure that you've experienced the same thing that I have: the guilt that comes from trying and not finishing
 too many side projects. It seems that prioritizing these projects or other ideas is too daunting a task for many, and so we just decide to 
 work on whatever we feel like in the moment. The problem here is that motivation is fickle; it isn't something that often persists for very long.
