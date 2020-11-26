@@ -125,6 +125,114 @@ After several hours of trial and error, here are 50 brand new words from strange
 
 **Quinziggle** - _When you finally get the girl you love_.
 
+## Update 11/26
+I decided to go back on Omegle last night and ask another round of questions, so... here's 50 more random words from strangers!
+
+**Hig** - _Sad, but horny_.
+
+**Sneepershuffin** - _To take a long walk_.
+
+**Dardar** - _Stupid_.
+
+**Valicious** - _The feeling of needing to go to the bathroom, but you aren't able to._
+
+**Tyrannisarium** - _An aquarium large enough to house a T-Rex_.
+
+**Bronque** - _A very sour candy_.
+
+**Blorshin** - _The act of jumping over a cow, and then kicking a sheep afterwards_.
+
+**Minko** - _To be unnaturally aroused by something that isn't usually arousing to you_.
+
+**Zoogork** - _To be extremely high_.
+
+**Maghetti** - _Americanized spaghetti_.
+
+**Farbis Darbis** - _When you die in such a way that your body folds like a character from Happy Wheels_.
+
+**Friscuit** - _A type of racquet for a sport_.
+
+**Assembilis** - _A group of elephants_.
+
+**Brando** - _To hit someone forcefully_.
+
+**Turdifloxin** - _A turtle with feathers_.
+
+**Dizzork** - _Synonymous with 'funny looking'_.
+
+**Slobbintogla** - _To unknowlingly receive a blowjob from a transvestite_.
+
+**Cunther** - _Synonymous to 'asshole' (as an insult)_.
+
+**Rubadoo** - _A rubber duck_.
+
+**Humfurt** - _When you sneeze with a mask on_.
+
+**Rancoon** - _A picture that tells a story_.
+
+**Stragget** - _A slur to describe straight people_.
+
+**Lid** - _An acronym for 'Love is Death'_.
+
+**Dwyzer** - _The nervous feeliong of seeing a frog for the first time_.
+
+**Lenada** - _Cold, but not too cold, but still cold_.
+
+**Blomber** - _Something that's really important_.
+
+**Echook** - _A language in the starwars universe_.
+
+**Slobdobber** - _A happy dog that's spitting everywhere_.
+
+**Goot** - _The sound that you make when you forcefully hit someone_.
+
+**Koyakoya** - _Poop_.
+
+**Manushka** - _The prettiest girl in the world_.
+
+**Pearapple** - _The cross-breed between a pear and an apple_.
+
+**Shimana** - _The act of getting a new rug_.
+
+**Slidiff** - _To tell someone how you truly feel about them_.
+
+**Groujoj** - _Fuck you_.
+
+**Schlopp** - _To kiss someone on their nose_.
+
+**Pagina** - _The combination of a penis and a vagina_.
+
+**Chikafrit** - _A dog that has eaten a weed edible_.
+
+**Gassah** - _The equivalent of clear pee, but for feces; clean poop_.
+
+**Coptime** - _A clock, used by a cop_.
+
+**Fringle** - _The feeling that you have no idea what you're talking about_.
+
+**Blitzick** - _Used to describe a very energetic person_.
+
+**Skiliosesting** - _A jellyfish sting_.
+
+**Bandayganday** - _Laughing at a joke; not too hard, but enough to acknowledge that it's funny_.
+
+**Napill** - _A tree branch_.
+
+**Falika** - _When you're having a bad day_.
+
+**Mezdeen** - _A painting_.
+
+**Rabex** - _A 3D line_.
+
+**Shamoomoo** - _A word to describe your love for Shrek_.
+
+**Siff** - _The art of not giving a fuck_.
+
+**Agoologay** - _Another way to say 'leave me alone'_.
+
+**Hembrussey** - _Acting suspect; acting suspicious_.
+
+
 ## Closing Remarks
 Of course, because it's the internet, I wasn't surprised that a lot of these words were unoriginal synonyms of other words
 or NSFW. I probably interviewed over 100 people in the 3 hours I spent on Omegle trying to get people to answer this question,
