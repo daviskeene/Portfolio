@@ -232,6 +232,125 @@ I decided to go back on Omegle last night and ask another round of questions, so
 
 **Hembrussey** - _Acting suspect; acting suspicious_.
 
+## Update 11/30
+More Words!
+
+**Skwyjar** - _Swagger, but with more pizzaz_.
+
+**Mazapoo** - _A new dog_.
+
+**Fullicourt** - _The fatugue that you get after watching too much tiktok_.
+
+**Chuggie** - _Lesbian intercourse_.
+
+**Rookee** - _The feeling of coming down from anesthetics_.
+
+**Mevlin** - _An intense love for mashed potatoes_.
+
+**Rollaga** _When you're rolling up with the gang_.
+
+**Galadablade** - _A super sharp sword used in the 1500's_.
+
+**Charflar** - _An expression to indicate that you're homosexual_.
+
+**Pinanata** - _French_.
+
+**Fleather*** - _When you feel shy from talking to someone you have a crush on_.
+
+**Flarf** - _The feeling of sleeplessness from overthinking_.
+
+**Fadoodle** - _A new type of pasta_.
+
+**Gerb** - _A drama queen_.
+
+**Buggah** - _To have sex_.
+
+**Bullahman** - _A word to describe a man with qualities of a woman_.
+
+**Stramutah** - _Fuck_.
+
+**Drit** - _To take out the trash_.
+
+**Alesticado** - _To be genuine and sincere_.
+
+**Kerplunk** - _To hang up on someone_.
+
+**Smut** - _Poop_.
+
+**Zoola** - _You're welcome_.
+
+**Wam** - _To wiggle your leg_.
+
+**Shootmagoot** - _Aw, shoot!_
+
+**Lemonhop** - _A jumping dance that a crack addict performs due to withdrawal symptoms_.
+
+**Fartfuckle** - _When you laugh so hard, you fart_.
+
+**Hunya** - _A guest in your home_.
+
+**Obaking** - _Crazy / psycho_.
+
+**Skadora** - _To stub your toe on a door_.
+
+**Bapple** - _The cross between a banana and an apple_.
+
+**Eryayookbay** - _A yearbook_.
+
+**Deelayne** - _Sad_.
+
+**Drek** - _To totally destroy someone_.
+
+**Forhenis** - _A big forehead_.
+
+**Bu$$y** - _To be expressive of your vagina (for women)_.
+
+**Hedgixonmen** - _Men who are hackers_.
+
+**Elbowish** - _To describe someone that looks like an elbow_.
+
+**Denophalator** - _A dead calculator_.
+
+**Kajongle** - _A disaster_.
+
+**Shoesniffle** - _The sound a squeaky / wet shoe makes when walking on a hard floor_.
+
+**Escubialis** - _A spell that turns you into a pencil_.
+
+**Fleo** - _A dog with furry ears_.
+
+**Lorkfishi** - _A synonym for string beans_.
+
+**Shlonk** - _The distance between two things_.
+
+**Earable** - _A hearable sound_.
+
+**Conceptus** - _The anatomy of something_.
+
+**Unseck** - _Pee / urine_.
+
+**Adroj** - _Ugly ass bitch_.
+
+**Wonkle** - _To dirty dance_.
+
+**Primintel** - _A medicinal plant, like weed_.
+
+**Gleeko** - _A chocolate bar_.
+
+**Marflishab** - _To put ones finger in their ear_.
+
+**Mup** - _A muted / less intense form of love_.
+
+**Jarolep** - _The act of nodding your head along to music_.
+
+**Smeggarmuffin** - _The act of falling_.
+
+**Anamalabella** - _Tomato juice, used as ink in a pen cartridge_.
+
+**Hazabaza** - _To live in the moment_.
+
+**Jahabadawesome** - _You're really cute and I'm nervous_.
+
 
 ## Closing Remarks
 Of course, because it's the internet, I wasn't surprised that a lot of these words were unoriginal synonyms of other words
