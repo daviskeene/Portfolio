@@ -12,7 +12,7 @@ categories: productivity music data-science
 <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EM6e5Tlc78VFE" width="250" height="480" frameborder="0" allowtransparency="true" allow="encrypted-media" align="right" style="margin-left: 25px; box-shadow: 10px 10px #FF91AF;">
 </iframe>
 <span>If you're anything like me, then you listen to music constantly. I have logged over 75,000 hours on Spotify this year alone, listening to all types of music. My favorite genres are mostly
-indie, R&B, adn alt-rock, but I'd say that I have a fairly diverse taste in music. To the right is my Spotify Top 100 songs, feel free to check them out!
+indie, R&B, and alt-rock, but I'd say that I have a fairly diverse taste in music. To the right is my Spotify Top 100 songs, feel free to check them out!
 </span>
 </div>
 
@@ -202,7 +202,7 @@ The computation of this matrix can be found [here](https://github.com/daviskeene
 Betweenness Centrality is a measure of how many times a node acts as a "bridge" between two points (ie. how many shortest paths run through that node).
 To compute betweenness centrality, we first calculate the Floyd-Warshall matrix that contains the shortest distances between any two artists in our graph.
 
-We can then use this matrix to determine _if_ a shortest path exists between any two nodes. If it does, then we calculate the shortest path and loop through all nodes along that path, storing a map that relates these verticies to a custom struct that stores an artists name and their centrality score.
+We can then use this matrix to determine _if_ a shortest path exists between any two nodes. If it does, then we calculate the shortest path and loop through all nodes along that path, storing a map that relates these vertices to a custom struct that stores an artists name and their centrality score.
 
 A higher centrality score means that an artist is more "central" to the graph. Since they have more shortest paths running through them, we can interpret this as this artist having a diverse
 enough list of genres / popular list of related artists.
