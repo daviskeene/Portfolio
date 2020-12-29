@@ -89,7 +89,6 @@ a {
 }
 /* animations / utilities */
 .section-2 a:hover{
-    font-size: 1.3rem;
     color: #ff91af;
     cursor: pointer;
     transition: 0.2s;
