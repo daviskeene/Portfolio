@@ -12,14 +12,16 @@ img {
     height: 475px;
     position: relative;
     overflow: hidden;
-    /*border:3px solid #4d4dff;*/
+    border:3px solid rgba(77,77,255,.15);
     border-radius: 50%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
 .profile-pic {
   display: inline;
   margin: 0 auto;
-  margin-left: -25%; /*centers the image*/
+  margin-left: 0%; /*centers the image*/
   height: 100%;
   width: auto;
 }
