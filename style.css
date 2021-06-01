@@ -1,4 +1,4 @@
-.grid-2{
+.grid-2 {
     display: grid;
     grid-template-columns: repeat(2,1fr);
 }
@@ -26,16 +26,16 @@ img {
   width: auto;
 }
 
-body{
+body {
     margin: 0;
     padding: 0;
     font-family: Ubuntu, sans-serif;
     background-color: #FFFFFF;
-    color: #7A7C80;
+    color: #7d7d7d;
 
 }
 
-h2,.white{
+h2,.white {
     color: #4d4dff;
 }
 
@@ -44,25 +44,25 @@ a {
     text-decoration: none;
 }
 /* section 1 */
-.section-1{
+.section-1 {
     padding-top: 15vh;
     padding-left: 10vw;
     padding-right: 10vw;
     text-align: center;
 }
 
-.section-1 p{
+.section-1 p {
     font-size: 1.1rem;
     padding-bottom: 10px;
     margin:0;
 }
 
-.section-1 h2{
+.section-1 h2 {
     font-size: 1.7rem;
     margin-bottom: 10px;
 }
 
-.section-1 a{
+.section-1 a {
     font-size: 1.5rem;
     padding: 10px;
 }
@@ -73,18 +73,18 @@ a {
     width: 80%;
 }
 
-.section-2 h2{
+.section-2 h2 {
     font-size: 1.7rem;
     margin-bottom: 10px;
 }
 
-.section-2 p{
+.section-2 p {
     font-size: 1.1rem;
     padding-bottom: 10px;
     margin:0;
 }
 
-.section-2 a{
+.section-2 a {
     display: block;
     padding: 5px;
     padding-left: 0;
@@ -92,32 +92,32 @@ a {
     font-size: 1.25em;
 }
 /* animations / utilities */
-.section-2 a:hover{
+.section-2 a:hover {
     color: #ff91af;
     cursor: pointer;
     transition: 0.2s;
 }
 
-.section-3 h2:hover{
+.section-3 h2:hover {
     font-size: 1.9rem;
     color: #ff91af;
     cursor: pointer;
     transition: 0.2s;
 }
 
-.section-1 a:hover{
+.section-1 a:hover {
     color: #ff91af;
     cursor: pointer;
     transition: 0.3s;
 }
 
-.white:hover{
+.white:hover {
     position: relative;
     padding-left: 10px;
 }
 
 /* media queres */
-@media(max-width:780px){
+@media(max-width:780px) {
     .grid-2{
         grid-template-columns: 1fr;
     }
